@@ -1,0 +1,115 @@
+<resources>
+    <!-- Questions -->
+    <string-array name="quiz_questions">
+        <item>What is the purpose of this leave policy?</item>
+        <item>Who does this leave policy apply to?</item>
+        <item>How many working days in advance should planned leave be applied for?</item>
+        <item>What must be attached to the leave application form?</item>
+        <item>What is the maximum number of consecutive leaves an employee can take at one time?</item>
+        <item>What happens to weekends and official holidays during a leave period?</item>
+        <item>What happens to unused earned leaves at the end of the year?</item>
+        <item>If an employee has 12 earned leaves a year, how many leaves do they earn per month?</item>
+        <item>How are unapproved leaves calculated?</item>
+        <item>What happens if an employee is absent without contact for more than 7 working days beyond sanctioned leave?</item>
+        <item>What must an employee submit to apply for medical leave?</item>
+        <item>What happens if an employee does not follow the proper leave application process?</item>
+        <item>What is the calculation formula for unpaid leave?</item>
+    </string-array>
+
+    <!-- Options -->
+    <string-array name="quiz_options_1">
+        <item>To approve financial benefits for employees</item>
+        <item>To guide employees on when and how to take leave</item>
+        <item>To determine performance bonuses</item>
+        <item>To establish new work procedures</item>
+    </string-array>
+    <string-array name="quiz_options_2">
+        <item>Contractual employees</item>
+        <item>All regular employees of the company</item>
+        <item>Interns and trainees</item>
+        <item>Freelancers</item>
+    </string-array>
+    <string-array name="quiz_options_3">
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>7 days</item>
+    </string-array>
+    <string-array name="quiz_options_4">
+        <item>A financial statement</item>
+        <item>A task-shifting form</item>
+        <item>A medical certificate</item>
+        <item>A supervisor’s letter</item>
+    </string-array>
+    <string-array name="quiz_options_5">
+        <item>3 days</item>
+        <item>5 days</item>
+        <item>7 days</item>
+        <item>10 days</item>
+    </string-array>
+    <string-array name="quiz_options_6">
+        <item>They are counted as leave</item>
+        <item>They are excluded from the leave count</item>
+        <item>They result in unpaid leave</item>
+        <item>They are converted to sick leave</item>
+    </string-array>
+    <string-array name="quiz_options_7">
+        <item>They are lost</item>
+        <item>They are converted into unpaid leaves</item>
+        <item>They are financially compensated</item>
+        <item>They are transferred to the next year</item>
+    </string-array>
+    <string-array name="quiz_options_8">
+        <item>1 leave</item>
+        <item>2 leaves</item>
+        <item>3 leaves</item>
+        <item>4 leaves</item>
+    </string-array>
+    <string-array name="quiz_options_9">
+        <item>At the per-day salary rate</item>
+        <item>At two times the per-day salary rate</item>
+        <item>At three times the per-day salary rate</item>
+        <item>No deduction is made</item>
+    </string-array>
+    <string-array name="quiz_options_10">
+        <item>They are issued a second warning</item>
+        <item>They are allowed to return without penalty</item>
+        <item>They are considered to have resigned voluntarily</item>
+        <item>They are put on unpaid leave</item>
+    </string-array>
+    <string-array name="quiz_options_11">
+        <item>A letter from a colleague</item>
+        <item>A written approval from HR</item>
+        <item>Medical records and physician’s note</item>
+        <item>An application signed by a family member</item>
+    </string-array>
+    <string-array name="quiz_options_12">
+        <item>The leave is automatically approved</item>
+        <item>The leave is counted as unpaid</item>
+        <item>The leave is converted to a bonus</item>
+        <item>The employee is given an additional earned leave</item>
+    </string-array>
+    <string-array name="quiz_options_13">
+        <item>Total leaves taken - earned leaves = unpaid leave</item>
+        <item>Earned leaves x 2 = unpaid leave</item>
+        <item>Total leave days / 2 = unpaid leave</item>
+        <item>Earned leaves + sick leave = unpaid leave</item>
+    </string-array>
+
+    <!-- Answers -->
+    <string-array name="quiz_answers">
+        <item>To guide employees on when and how to take leave</item>
+        <item>All regular employees of the company</item>
+        <item>3 days</item>
+        <item>A task-shifting form</item>
+        <item>3 days</item>
+        <item>They are excluded from the leave count</item>
+        <item>They are financially compensated</item>
+        <item>1 leave</item>
+        <item>At two times the per-day salary rate</item>
+        <item>They are considered to have resigned voluntarily</item>
+        <item>Medical records and physician’s note</item>
+        <item>The leave is counted as unpaid</item>
+        <item>Total leaves taken - earned leaves = unpaid leave</item>
+    </string-array>
+</resources>

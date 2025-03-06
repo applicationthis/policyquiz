@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870757573971",
+    "project_id": "policyquiz-388b2",
+    "storage_bucket": "policyquiz-388b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870757573971:android:d014c6f7571f1b3b1a6da6",
+        "android_client_info": {
+          "package_name": "quiz.policyquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAE1jziJ16KBijQygl_aj1WbYKksHMV-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
